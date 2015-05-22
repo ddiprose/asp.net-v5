@@ -16,6 +16,8 @@ namespace net5WebPrototype.Controllers
         }
         public IActionResult Index()
         {
+            ViewBag.vNextFeatures = _nextFeature.GetList();
+
             return View();
         }
 
