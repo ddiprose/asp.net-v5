@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "net5WebPrototype1"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-net5WebPrototype1-ec1ec4b6-d799-415f-aa07-71dab331f7cf;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
